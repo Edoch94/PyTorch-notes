@@ -1,4 +1,4 @@
-# MLDL_test
+# PyTorch notes
 Personal notes and tests on PyTorch. 
 
 Main sources
