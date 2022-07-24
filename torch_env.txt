@@ -48,6 +48,7 @@ ipython_genutils          0.2.0                      py_1    conda-forge
 ipywidgets                7.7.1              pyhd8ed1ab_0    conda-forge
 jedi                      0.18.1           py39hcbf5309_1    conda-forge
 jinja2                    3.1.2              pyhd8ed1ab_1    conda-forge
+joblib                    1.1.0              pyhd8ed1ab_0    conda-forge
 jpeg                      9e                   h8ffe710_2    conda-forge
 jsonschema                4.6.2              pyhd8ed1ab_0    conda-forge
 jupyter_client            7.3.4              pyhd8ed1ab_0    conda-forge
@@ -108,6 +109,7 @@ numpy                     1.23.0           py39h1a62c8c_0    conda-forge
 openjpeg                  2.4.0                hb211442_1    conda-forge
 openssl                   1.1.1q               h8ffe710_0    conda-forge
 packaging                 21.3               pyhd8ed1ab_0    conda-forge
+pandas                    1.4.3            py39h2e25243_0    conda-forge
 pandoc                    2.18                 h57928b3_0    conda-forge
 pandocfilters             1.5.0              pyhd8ed1ab_0    conda-forge
 parso                     0.8.3              pyhd8ed1ab_0    conda-forge
@@ -134,11 +136,14 @@ python-fastjsonschema     2.15.3             pyhd8ed1ab_0    conda-forge
 python_abi                3.9                      2_cp39    conda-forge
 pytorch                   1.12.0          py3.9_cuda11.6_cudnn8_0    pytorch
 pytorch-mutex             1.0                        cuda    pytorch
+pytz                      2022.1             pyhd8ed1ab_0    conda-forge
 pywin32                   303              py39hb82d6ee_0    conda-forge
 pywinpty                  2.0.6            py39h99910a6_0    conda-forge
 pyzmq                     23.2.0           py39he46f08e_0    conda-forge
 qt-main                   5.15.4               h467ea89_2    conda-forge
 requests                  2.28.1             pyhd8ed1ab_0    conda-forge
+scikit-learn              1.1.1            py39he931e04_0    conda-forge
+scipy                     1.8.1            py39hc0c34ad_0    conda-forge
 send2trash                1.8.0              pyhd8ed1ab_0    conda-forge
 setuptools                62.6.0           py39hcbf5309_0    conda-forge
 sip                       6.5.1            py39h415ef7b_2    conda-forge
@@ -148,6 +153,7 @@ sqlite                    3.39.0               h8ffe710_0    conda-forge
 stack_data                0.3.0              pyhd8ed1ab_0    conda-forge
 tbb                       2021.5.0             h2d74725_1    conda-forge
 terminado                 0.15.0           py39hcbf5309_0    conda-forge
+threadpoolctl             3.1.0              pyh8a188c0_0    conda-forge
 tinycss2                  1.1.1              pyhd8ed1ab_0    conda-forge
 tk                        8.6.12               h8ffe710_0    conda-forge
 toml                      0.10.2             pyhd8ed1ab_0    conda-forge
